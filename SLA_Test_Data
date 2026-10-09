@@ -31,5 +31,5 @@ Resolution of Priority Level 1 & 2 Security Events	Key Measurement	Commencement 
 Root Cause A0lysis -- Implementation of Permanent fix for Major Incidents	Key Measurement	Commencement Date + 3 months	Monthly	A	95	90	Weekoff	Sha0 Redden	Neeraj Mediratta	100	100	100	100	100	100	100	100		
 Security - Identity Provisioning (72 hours)	Key Measurement	Commencement Date + 3 months	Monthly	A	99	98	Weekoff	Jon Scheidell	Sudhir Kumar	100	100	99.73	99.43	100	100	100	100		
 Security - Mean Time to Respond (P3 or higher) within 24 Hours	Key Measurement	Commencement Date + 3 months	Monthly	A	95	90	Weekoff	Jon Scheidell	Anil Agrawal	100	82.25	100	100	100	100	100	100		
-Security - PKI Certificates Renewed 30 days prior to expiration date	Key Measurement	Commencement Date + 3 months	Monthly	A	99.9	99.8	Weekoff	Terry Lunsford	Anil Agrawal	100	100	100	100	100	100	100	100		
+Security - PKI Certificates Renewed 30 days prior to expiration date	Key Measurement	Commencement Date + 3 months	Monthly	A	99.9	99.8	Weekoff	Terry Lunsford	Anil Agrawal	100	100	100	100	90	95	100	100		
 Service Desk - Speed to Answer within forty-five (45) Seconds	Key Measurement	Commencement Date + 3 months	Monthly	A	96	95	Weekoff	Sha0 Redden	Sudhir Kumar	96.47	96.9	100	94.09	95.27	96.83	97.14	97.36		
