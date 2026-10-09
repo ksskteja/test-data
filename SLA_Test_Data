@@ -1,0 +1,35 @@
+SLA Name	Critical/ Key Measurement	Service Level Effective Date	Measurement Period	Measurement Window	Expected Service Level	Minimum Service Level 	2-Mar	ODP Owner	HCL Owner	Jan 2026 HCL SLA	Feb 2026 HCL SLA	Mar 2026 HCL SLA	April 2026 HCL SLA	May 2026 HCL SLA	June 2026 HCL SLA	July 2026 HCL SLA	Aug 2026 HCL SLA	Sept 2026 HCL SLA	Comments
+Cross Functio0l -- Change Ma0gement Effectiveness	Critical Measurement	Commencement Date + 0 months	Monthly	A	90	85	Weekoff	Sha0 Redden	Neeraj Mediratta	100	100	99.19	98.55	99.27	100	100	100		
+Cross Functio0l -- Identification of Root Cause & Permanent Fix Plan	Critical Measurement	Commencement Date + 3 months	Monthly	B	95	90	Weekoff	Sha0 Redden	Neeraj Mediratta	100	100	100	100	100	100	100	100		
+Cross Functio0l -- Security Vulnerability Remediation	Critical Measurement	Commencement Date + 3 months	Monthly	A	95	90	Weekoff	Sha0 Redden	Anil Agrawal	100	90.85	97.06	100	98.97	100	100	100		
+EUC - Software Distribution and Packaging - Ma0ged Desktop Application Patch Distribution -- On Time Delivery	Critical Measurement	Commencement Date + 3 months	Monthly	A	95	90	Weekoff	Sha0 Redden	Rajesh GK	96	60.69	95.01	97.71	97.71	95.56	96.03	97.13		
+Intrusion Detection/Prevention Service Availability	Critical Measurement	Commencement Date + 3 months	Monthly	A	99.99	99.5	Weekoff	Georges Deroseney	Anil Agrawal	100	100	100	100	100	100	100	100		
+IPS/IDS Sig0tures/Security Enhancement Updates	Critical Measurement	Commencement Date + 3 months	Monthly	A	99.99	99	Weekoff	Georges Deroseney	Anil Agrawal	100	100	100	100	100	100	100	100		
+MNS LAN -- Critical LAN Site Availability	Critical Measurement	Commencement Date + 3 months	Monthly	A	99.99	99.95	Weekoff	Georges	Priya Ranjan Singh	100	100	100	100	100	100	100	100		
+Patch Rating Process Availability	Critical Measurement	Commencement Date + 3 months	Monthly	A	99.5	98	Weekoff	Terry Lunsford	Sneha Jagzape	99.76	99.53	100	99.65	99.65	99.88	99.87	99.87		
+Security - Mean Time to Respond (P1) within 15 minutes	Critical Measurement	Commencement Date + 0 months	Monthly	A	98	97	Weekoff	Jon Scheidell	Anil Agrawal	100	99.04	100	100	100	100	100	100		
+Security - Mean Time to Respond (P2) within 30 minutes	Critical Measurement	Commencement Date + 3 months	Monthly	A	98	97	Weekoff	Jon Scheidell	Anil Agrawal	100	99.62	100	99.61	100	100	100	100		
+Security - SOC Availability	Critical Measurement	Commencement Date + 0 months	Monthly	A	98	97	Weekoff	Jon Scheidell	Anil Agrawal	100	100	100	100	100	100	100	100		
+Service Desk - First Contact Resolution Rate	Critical Measurement	Commencement Date + 3 months	Monthly	A	90	85	Weekoff	Sha0 Redden	Sudhir Kumar	90.21	90.03	90.06	90.05	90.47	90.87	91.48	90.37		
+Aggregate Web Hosting Server Availability	Key Measurement	Commencement Date + 3 months	Monthly	A	99.95	99.9	Weekoff	Terry Lunsford	Sneha Jagzape	100	100	100	100	100	100	100	100		
+Azure Virtual Desktop (AVD/WVD)	Key Measurement	Commencement Date + 3 months	Monthly	A	99	97	Weekoff	Sha0 Redden	Neha Sinha	100	100	100	100	100	100	100	100		
+Cross Functio0l -- Disaster Recovery Test	Key Measurement	Commencement Date + 3 months	Annually	A	98	95	Weekoff	Richard Wys	Anil Agrawal	0	0	0	0	100	0	0	0		
+Cross Functio0l -- Fulfillment of Service Request within Committed Timeframes	Key Measurement	Commencement Date + 3 months	Monthly	A	95	93	Weekoff	Sha0 Redden	Neeraj Mediratta	96.69	96.36	97.85	97.77	98.58	97.97	98.43	98.31		
+Cross Functio0l - Major Incidents Caused by Change	Key Measurement	Commencement Date + 0 months	Monthly	A	80.26	80	Weekoff	Sha0 Redden	Neeraj Mediratta	100	100	100	100	100	100	100	100		S0
+Cross Functio0l - Ma0ged File Transfers Completed Without Incident	Key Measurement	Commencement Date + 3 months	Monthly	A	98	97	Weekoff	Terry Lunsford	Prem Balasubramanian	99.23	99.13	99.05	99.1	99.13	98.96	99.44	99.44		
+Cross Functio0l -- Priority Level 1 Incidents Resolved within Allocated Time (4 Hours)	Key Measurement	Commencement Date + 3 months	Monthly	A	98	95	Weekoff	Sha0 Redden	Neeraj Mediratta	0	0	100	100	0	0	100	100		
+Cross Functio0l -- Priority Level 2 Incidents Resolved within Allocated Time (8 Hours)	Key Measurement	Commencement Date + 3 months	Monthly	A	95	90	Weekoff	Sha0 Redden	Neeraj Mediratta	100	100	0	100	100	100	0	100		
+Cross Functio0l -- Priority Level 3 Incidents Resolved within Measurement Window	Key Measurement	Commencement Date + 3 months	Monthly	B	95	90	Weekoff	Sha0 Redden	Neeraj Mediratta	97.69	97.41	97.3	96.47	95.71	98.7	96.23	99.36		
+Cross Functio0l -- Status Updates - Major Incidents (30 Minutes)	Key Measurement	Commencement Date + 0 months	Monthly	A	99	98	Weekoff	Sha0 Redden	Neeraj Mediratta	100	100	100	100	100	100	100	100		
+Dev-Ops - Availability of the Cloudbees-Jenkins Operation Center	Key Measurement	Commencement Date + 3 months	Monthly	A	99.82	99.75	Weekoff	Terry Lunsford	Dinesh Tiwari	100	100	100	100	100	100	100	100		
+Individual Cloud Server Availability	Key Measurement	Commencement Date + 3 months	Monthly	A	99.95	99.9	Weekoff	Terry Lunsford	Sneha Jagzape	100	100	100	100	100	100	100	100		
+Individual On-Premises Server Availability (Retail)	Key Measurement	Commencement Date + 3 months	Monthly	A	99.95	99.9	Weekoff	Terry Lunsford	Sneha Jagzape	100	100	100	100	100	100	100	100		
+MNS WAN -- Critical WAN Site Availability	Key Measurement	Commencement Date + 3 months	Monthly	A	99.99	99.95	Weekoff	Georges	Priya Ranjan Singh	100	100	100	100	100	100	100	100		
+MNS WAN -- Standard WAN Site Availability	Key Measurement	Commencement Date + 3 months	Monthly	A	99.99	99.95	Weekoff	Georges	Priya Ranjan Singh	100	100	100	100	100	100	100	100		
+Production Services - Batch Jobs Completed Without Incident	Key Measurement	Commencement Date + 3 months	Monthly	A	98	97	Weekoff	Terry Lunsford	Prem Balasubramanian	99.9	99.88	99.86	99.8	99.86	99.87	99.87	99.87		
+Resolution of Priority Level 1 & 2 Security Events	Key Measurement	Commencement Date + 3 months	Monthly	A	86	80	Weekoff	Jon Scheidell	Anil Agrawal	100	100	100	100	100	100	100	100		
+Root Cause A0lysis -- Implementation of Permanent fix for Major Incidents	Key Measurement	Commencement Date + 3 months	Monthly	A	95	90	Weekoff	Sha0 Redden	Neeraj Mediratta	100	100	100	100	100	100	100	100		
+Security - Identity Provisioning (72 hours)	Key Measurement	Commencement Date + 3 months	Monthly	A	99	98	Weekoff	Jon Scheidell	Sudhir Kumar	100	100	99.73	99.43	100	100	100	100		
+Security - Mean Time to Respond (P3 or higher) within 24 Hours	Key Measurement	Commencement Date + 3 months	Monthly	A	95	90	Weekoff	Jon Scheidell	Anil Agrawal	100	82.25	100	100	100	100	100	100		
+Security - PKI Certificates Renewed 30 days prior to expiration date	Key Measurement	Commencement Date + 3 months	Monthly	A	99.9	99.8	Weekoff	Terry Lunsford	Anil Agrawal	100	100	100	100	100	100	100	100		
+Service Desk - Speed to Answer within forty-five (45) Seconds	Key Measurement	Commencement Date + 3 months	Monthly	A	96	95	Weekoff	Sha0 Redden	Sudhir Kumar	96.47	96.9	100	94.09	95.27	96.83	97.14	97.36		
